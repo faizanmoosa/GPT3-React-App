@@ -1,6 +1,6 @@
 # Fully Responsive Modern UI/UX Website in React JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Site(https://faizanmoosa.github.io/GPT3-React-App/).
 
 ## Available Scripts
 
