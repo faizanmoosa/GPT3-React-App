@@ -2,7 +2,7 @@
 
 Live Site => https://faizanmoosa.github.io/GPT3-React-App/
 
-## Available Scripts
+## Introduction
 
 In the project directory, you can run:
 
