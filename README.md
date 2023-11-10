@@ -4,7 +4,7 @@ Live Site => https://faizanmoosa.github.io/GPT3-React-App/
 
 ## Introduction
 
-Alongside building this website, I've learn:
+Alongside building this website, I've learnt:
 
 - React Functional components and their reusability
 - React file and folder structure
