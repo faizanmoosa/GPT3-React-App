@@ -1,4 +1,4 @@
-# Fully Responsive Modern UI/UX Website in React JS
+# Fully Responsive Modern UI/UX Website using React JS
 
 Live Site => https://faizanmoosa.github.io/GPT3-React-App/
 
